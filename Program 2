@@ -1,0 +1,15 @@
+#include<conio.h>
+using namespace std
+int main()
+{
+int height;
+cout<<"Enter the name of player:";
+cin>>height;
+if (height>=9.0m)
+{
+cout<<"\n player are eligible for International Badminton Compitation";
+}
+else
+cout<<"\n player are not eligible";
+return 0;
+}
